@@ -1,1 +1,1 @@
-# functionalProgramming
+Functional Programming Exercises with JavaScript
