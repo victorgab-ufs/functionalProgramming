@@ -2,7 +2,7 @@
 
 const algarismo = (num) => {
 
-const numeros = Object.freeze(['zero','one','two','three','four','five','six','seven','eight', 'nine'])
+const numeros = Object.freeze(['zero','one','two','three','four','five','six','seven','eight','nine'])
 
 return numeros[num]
 

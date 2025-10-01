@@ -1,0 +1,1 @@
+### Questões com uso de operações em listas e funções map, filter e reduce
